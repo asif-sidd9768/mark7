@@ -7,3 +7,6 @@ So, When you enter English and click on Translate it'll show the Pirate translat
 
 ## Tech Stack
 > HTML, CSS, JavaScript.
+
+## Demo
+![alt text](https://i.ibb.co/6XTfQfY/Screenshot-2022-09-22-at-3-24-36-PM.png)
